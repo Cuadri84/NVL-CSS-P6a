@@ -1,0 +1,36 @@
+td {
+	border: 1px solid #000000;
+}
+#talco{
+	background: #ffffff;
+}
+#yeso{
+	background: #eeeeee;
+}
+#CALCITA{
+	background: #dddddd;
+}
+#FLUORITA{
+	background: #cccccc;
+}
+#APATITO{
+	background: #aaaaaa;
+}
+#ORTOSA{
+	background: #888888;
+}
+#CUARZO{
+	background: #666666;
+}
+#TOPACIO{
+	background: #444444;
+}
+#corindon{
+	background: #222222;
+}
+#DIAMANTE{
+	background: #000000;
+}
+h1{
+	font: expanded italic small-caps normal 30px/1.4 sans-serif;
+}
